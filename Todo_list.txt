@@ -1,4 +1,5 @@
 TODO list:
 ----------------
 [X] Git workshop
-[ ] CMS project
+[X] CMS project
+[ ] Study signals
