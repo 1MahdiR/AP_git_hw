@@ -1,0 +1,4 @@
+
+1 - Flies can fly.
+2 - Joolabi is delicious.
+3 - Naengi is not delicious.
