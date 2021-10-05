@@ -5,3 +5,5 @@
 4 - Ghasempoor can fly.
 5 - Mehrab Moradzade is NOT kahrkhoon.
 6 - Anime was NOT a mistake.
+7 - I just added this fact in order to make a pull request
+8 - Fact number 5 is a big lie 
